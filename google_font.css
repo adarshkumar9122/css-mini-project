@@ -1,0 +1,11 @@
+ /* google font ka matlab labriary of fonts  */
+
+ /* 1.icon ke liye google icon  website ka use karenge  
+    2. icon ke liye font awesome website ka use karenge
+    or awesome website pe rakhe icon ke link ke liye hum cdnjs website pe jaa kr icon ka link ko copy karenge.
+    
+ cdnj ek labrary hai icon ka isiliye fontawesome ka link ko ya tag ko copy karte hai head body ke andar*/
+
+ h1{
+    font-family: 'Yuji Hentaigana Akari', cursive;
+ }
